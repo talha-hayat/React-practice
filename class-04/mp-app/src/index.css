@@ -1,8 +1,0 @@
-body{
-    background-image: url("https://cdn.prod.website-files.com/6517933c764571c854427bf8/65ddfd475208c4857a146195_6517933c764571c854427c84_64b8a4d5d49200a7c86c2a76_modern-ui-design.jpeg");
-
-    background-size: cover; /* Image ko pure area mein cover karega */
-    background-position: center; /* Image ko center mein position karega */
-    background-repeat: no-repeat; /* Image repeat nahi hogi */
-    height: 100vh; /* Full viewport height */
-}
